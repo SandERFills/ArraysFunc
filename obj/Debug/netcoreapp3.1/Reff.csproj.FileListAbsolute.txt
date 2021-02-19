@@ -1,0 +1,13 @@
+C:\Users\salag\source\repos\AllInOne\Reff\bin\Debug\netcoreapp3.1\Reff.exe
+C:\Users\salag\source\repos\AllInOne\Reff\bin\Debug\netcoreapp3.1\Reff.deps.json
+C:\Users\salag\source\repos\AllInOne\Reff\bin\Debug\netcoreapp3.1\Reff.runtimeconfig.json
+C:\Users\salag\source\repos\AllInOne\Reff\bin\Debug\netcoreapp3.1\Reff.runtimeconfig.dev.json
+C:\Users\salag\source\repos\AllInOne\Reff\bin\Debug\netcoreapp3.1\Reff.dll
+C:\Users\salag\source\repos\AllInOne\Reff\bin\Debug\netcoreapp3.1\Reff.pdb
+C:\Users\salag\source\repos\AllInOne\Reff\obj\Debug\netcoreapp3.1\Reff.AssemblyInfoInputs.cache
+C:\Users\salag\source\repos\AllInOne\Reff\obj\Debug\netcoreapp3.1\Reff.AssemblyInfo.cs
+C:\Users\salag\source\repos\AllInOne\Reff\obj\Debug\netcoreapp3.1\Reff.csproj.CoreCompileInputs.cache
+C:\Users\salag\source\repos\AllInOne\Reff\obj\Debug\netcoreapp3.1\Reff.dll
+C:\Users\salag\source\repos\AllInOne\Reff\obj\Debug\netcoreapp3.1\Reff.pdb
+C:\Users\salag\source\repos\AllInOne\Reff\obj\Debug\netcoreapp3.1\Reff.genruntimeconfig.cache
+C:\Users\salag\source\repos\AllInOne\Reff\obj\Debug\netcoreapp3.1\Reff.csprojAssemblyReference.cache
